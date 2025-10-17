@@ -16,7 +16,7 @@ Deltarune için Bluesoul ekibinin Türkçe yamasını tek tıkla kuran basit bir
 ### Gereksinimler
 
 - **Python 3.6+** yüklü olmalı
-- **Windows**: Tkinter varsayılan olarak gelir
+- **Windows**: Python dışında ekstra gereksinim yok
 - **Linux**: Tkinter kurulumu gerekebilir:
   ```bash
   # Ubuntu/Debian
