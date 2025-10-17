@@ -30,10 +30,7 @@ Deltarune için Bluesoul ekibinin Türkçe yamasını tek tıkla kuran basit bir
   ```
 
 ### Çalıştırma
-
-1. Bu klasörü indirin veya klonlayın
-2. `DeltaruneTRpatch` klasörünün bu dizinde olduğundan emin olun
-3. Terminalde veya Komut İstemi'nde şu komutu çalıştırın:
+Sadece 'RUN_INSTALLER.bat(linux ise .sh)'ı çalıştırın
 
 ```bash
 python installer.py
