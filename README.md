@@ -5,13 +5,12 @@ Deltarune için Bluesoul ekibinin Türkçe yamasını tek tıkla kuran basit bir
 ## Özellikler
 
 ✅ **Modern Karanlık Tema**: Profesyonel görünümlü arayüz  
-✅ **Özel İkon**: Mavi piksel kalp logosu  
 ✅ **Otomatik Tespit**: Deltarune kurulum klasörünü otomatik olarak bulur (Steam vs.)  
 ✅ Eğer isterseniz manuel seçim dahildir  
 ✅ **Oto Yedekleme**: Orijinal dosyalarınız `backup_original` klasöründe yedeklenir  
 ✅ **Kolay Kullanım**: Tek tıkla yama kurulumu  
 ✅ **Yama Kaldırma**: Tek tıkla orijinal dosyalara geri dönme  
-✅ **Çapraz Platform**: Windows ve Linux desteği
+✅ Linux desteği
 
 ### Gereksinimler
 
