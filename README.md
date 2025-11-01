@@ -38,11 +38,13 @@ python installer.py
 ## Kullanım
 
 ### Yamayı Kurmak
-1. Programı çalıştırın
-2. Program Deltarune kurulum klasörünü otomatik olarak bulmaya çalışacak
-3. Bulamazsa *"Oyun Konumunu Seç"* butonuna tıklayarak manuel olarak seçin
-4. *"Yamayı İndir"* butonuna tıklayın
-5. Kurulum tamamlandığında oyunu Türkçe oynayabilirsiniz!
+1. "bluesoul.tr" sitesinden yamayı indirin.
+2. DeltaruneTR klasörüne zipten installer'a ayıklayın
+3. Programı Çalıştırın
+4. Program Deltarune kurulum klasörünü otomatik olarak bulmaya çalışacak
+5. Bulamazsa *"Oyun Konumunu Seç"* butonuna tıklayarak manuel olarak seçin
+6. *"Yamayı İndir"* butonuna tıklayın
+7. Kurulum tamamlandığında oyunu Türkçe oynayabilirsiniz!
 
 ### Yamayı Kaldırmak (Orijinale Dönmek)
 1. Programı çalıştırın
